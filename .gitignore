@@ -1,0 +1,16 @@
+# Simulator outputs
+work/
+transcript
+vsim.wlf
+*.wlf
+*.vcd
+*.vpd
+*.fsdb
+*.log
+
+# Editor and operating-system files
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
